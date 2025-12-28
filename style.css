@@ -1,3 +1,10 @@
 h{
-    color: blueviolet;
+    color: blue;
+    font-style: oblique;
+}
+p{
+    color: aqua;
+}
+p{
+    font-style: italic;
 }
